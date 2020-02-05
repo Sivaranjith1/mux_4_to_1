@@ -1,0 +1,93 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Emux_4_to_1
+Z0 w1580922810
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Ranjith/Documents/vhdl/mux
+Z5 8C:/Users/Ranjith/Documents/vhdl/mux/mux_4_to_1.vhd
+Z6 FC:/Users/Ranjith/Documents/vhdl/mux/mux_4_to_1.vhd
+l0
+L5
+V6CQdhYk4mha:YU82FY?zY2
+!s100 GRfMCak[C]5m;bK;<a3Uf3
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1580923724
+!i10b 1
+Z9 !s108 1580923723.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Ranjith/Documents/vhdl/mux/mux_4_to_1.vhd|
+Z11 !s107 C:/Users/Ranjith/Documents/vhdl/mux/mux_4_to_1.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Artl
+R1
+R2
+R3
+Z14 DEx4 work 10 mux_4_to_1 0 22 6CQdhYk4mha:YU82FY?zY2
+l18
+L17
+VMA>7C?W]Y>LMe5=o61a@_0
+!s100 EeXa64TLfF1Qz6c9fV]=m2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Emux_4_to_1_tb
+Z15 w1580923677
+R1
+R2
+R3
+R4
+Z16 8C:/Users/Ranjith/Documents/vhdl/mux/mux_4_to_1_tb.vhd
+Z17 FC:/Users/Ranjith/Documents/vhdl/mux/mux_4_to_1_tb.vhd
+l0
+L6
+VMoHLL71RMX4SV06jjeWk?1
+!s100 zEjbZKR@FXGa7c50NoKnJ0
+R7
+32
+R8
+!i10b 1
+Z18 !s108 1580923724.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Ranjith/Documents/vhdl/mux/mux_4_to_1_tb.vhd|
+Z20 !s107 C:/Users/Ranjith/Documents/vhdl/mux/mux_4_to_1_tb.vhd|
+!i113 1
+R12
+R13
+Abehave
+R14
+R1
+R2
+R3
+Z21 DEx4 work 13 mux_4_to_1_tb 0 22 MoHLL71RMX4SV06jjeWk?1
+l18
+L9
+Z22 VVKk4mDc:VQ0P>8]TmIChF0
+Z23 !s100 lfUQ43WoVUHc`g@hS:?T?0
+R7
+32
+R8
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
